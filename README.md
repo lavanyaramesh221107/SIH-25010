@@ -1,7 +1,7 @@
-# Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+ Smart India Hackathon Workshop
+# Date: 26.09.2025
+## Regiser Number:
+## Name: Lavanya
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,47 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+SmartCrop+ is a data-driven, multilingual, and offline-compatible advisory platform designed to help small and marginal farmers make smarter decisions regarding crop selection, pest management, irrigation, fertilization, and marketing. It uses AI/ML, weather APIs, soil data, satellite imagery, and mobile technology to deliver personalized, real-time agricultural advice.
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+ 1.Data Collection
+• IoT Sensors – Monitor soil moisture, pH, temperature, and humidity.
+• Weather & Satellite Data – Collect rainfall, temperature, and climate forecasts.
+• Farmer Inputs – Crop preferences, land size, and local conditions.
+
+ 2.Data Processing
+• Cloud/Server Storage – Centralized storage of collected data.
+• AI/ML Analysis – Predict optimal crops, irrigation schedules, fertilizer usage, and detect pest/disease risks.
+
+ 3.Advisory Generation
+• Generate recommendations on crop selection, sowing time, irrigation, fertilizer, and pest management.
+<img width="513" height="768" alt="image" src="https://github.com/user-attachments/assets/f5e1b9e1-84e4-41eb-8729-9467230c60da" />
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+Proven Technologies: All components (AI, satellite data, mobile app, SMS) are technically feasible and already in use in isolated agri-solutions.
+
+Modular Design: System is designed to be modular and scalable, so additional crops or languages can be added easily.
+
+Open APIs: Leverages open APIs (e.g., OpenWeather, Agmarknet) to reduce development cost and time
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+Impact
+
+• Increases crop yield through data-driven recommendations.
+• Optimizes use of water, fertilizers, and pesticides.
+• Reduces crop losses due to pests, diseases, and adverse weather.
+• Empowers farmers to make informed decisions.
+
+Benefits
+
+• Higher income and reduced input costs.
+• Saves time and labor by providing automated advisories.
+• Promotes sustainable and eco-friendly farming practices.
+• Accessible via mobile, SMS, or voice in local languages.
+• Improves market access by suggesting the right crops and harvest time.
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+Research from organizations like the FAO, World Bank, and IFPRI shows that digital farming solutions improve yields, cut resource use, and support smallholder farmers in adapting to climate change. Studies in agricultural journals highlight how IoT-based systems boost efficiency, while industry reports, such as those from McKinsey, emphasize the economic and sustainability benefits of AgriTech, reinforcing the value of platforms like AgriSage.
+<br>
+<a href="https://www.researchgate.net/publication/258789844_A_Comprehensive_Study_of_Application_of_Decision_Support_System_in_Agriculture_in_Indian_Context?utm_source=chatgpt.com">click to view reference</a>
+
