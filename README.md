@@ -1,7 +1,7 @@
  Smart India Hackathon Workshop
 # Date: 26.09.2025
-## Regiser Number:
-## Name: Lavanya
+## Regiser Number:25017651
+## Name: Lavanya.R
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
